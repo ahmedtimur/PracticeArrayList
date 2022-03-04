@@ -1,10 +1,8 @@
 package com.company;
 
-import com.company.enums.Group;
-import com.company.enums.classes.Student;
+import com.company.classes.Student;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import static com.company.enums.Group.*;
 

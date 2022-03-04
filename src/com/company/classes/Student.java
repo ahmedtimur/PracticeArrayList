@@ -1,4 +1,4 @@
-package com.company.enums.classes;
+package com.company.classes;
 
 import com.company.enums.Group;
 
